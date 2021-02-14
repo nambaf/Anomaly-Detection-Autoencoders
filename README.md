@@ -1,6 +1,8 @@
 # Anomaly-Detection-Autoencoders
 
 Anomaly detection tramite Autoencoders
+
+
 Sviluppo di un sistema di diagnostica su dispositivi di generazione e consumo di energia elettrica e termica, monitorati
 mediante opportuni sensori e caratterizzati da un’insorgenza di anomalie di funzionamento, quali malfunzionamenti di
 componenti e cambiamento delle prestazioni.
